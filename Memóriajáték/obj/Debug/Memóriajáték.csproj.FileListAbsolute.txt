@@ -1,0 +1,10 @@
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\bin\Debug\Memóriajáték.exe.config
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\bin\Debug\Memóriajáték.exe
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\bin\Debug\Memóriajáték.pdb
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.csprojAssemblyReference.cache
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.Form1.resources
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.Properties.Resources.resources
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.csproj.GenerateResource.cache
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.csproj.CoreCompileInputs.cache
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.exe
+C:\Users\gyori\source\repos\Memoriajatek\Memóriajáték\obj\Debug\Memóriajáték.pdb
